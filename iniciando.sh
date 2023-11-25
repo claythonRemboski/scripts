@@ -39,22 +39,15 @@ sudo apt upgrade -y
 install_package postman
 install_package code
 install_package teams
-install_package discord
 install_package google-chrome
 install_package opera
-install_package gnome-terminal
 install_package gtop
 install_package htop
 install_package docker
 install_package docker-compose
-install_package php8.0
-install_package xampp
-install_package outlook
-install_package openjdk-11-jdk
-install_package openjdk-11-jre
+install_package openjdk-21-jdk
+install_package openjdk-21-jre
 install_package drawing
-install_package pano
-install_package vlc
 install_package flameshot
 
 # Instalar o IntelliJ IDEA Community Edition
