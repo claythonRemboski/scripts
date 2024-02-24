@@ -7,6 +7,6 @@ chmod +x nomedoArquivo
 nano ~/.bashrc
 
 ## Exemplo de alias para os scripts
-alias @upDisc='~/Caminho/scripts/updateDiscord.sh'
-alias @code='~/Caminho/scripts/openCodeAndDocker.sh'
-alias @dockerDown='~/Caminho/scripts/dockerDown.sh'
+- alias @upDisc='~/Caminho/scripts/updateDiscord.sh'
+- alias @code='~/Caminho/scripts/openCodeAndDocker.sh'
+- alias @dockerDown='~/Caminho/scripts/dockerDown.sh'
