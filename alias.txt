@@ -1,0 +1,5 @@
+nano ~/.bashrc
+
+alias @upDisc='~/Documents/scripts/updateDiscord.sh'
+alias @code='~/Documents/scripts/openCodeAndDocker.sh'
+alias @dockerDown='~/Documents/scripts/dockerDown.sh'
